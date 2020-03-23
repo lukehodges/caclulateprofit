@@ -6,3 +6,10 @@ enter the item to calculate the profit
 item found
 banana : 24.0
 ```
+the dictionary for each item look like the following
+```python
+'banana' : {
+  'cost_price' : 0.10,
+  'sell_price' : 0.50,
+  'inventory' : 120
+  }
