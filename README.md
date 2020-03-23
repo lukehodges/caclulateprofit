@@ -13,3 +13,8 @@ the dictionary for each item look like the following
   'sell_price' : 0.50,
   'inventory' : 120
   }
+```
+## what i learned
+1. how to use dictionaries
+2. grabbing variables from dictionaries
+3. using dictionaries inside dictionaries
